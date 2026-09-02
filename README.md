@@ -13,7 +13,7 @@ Versatile technology professional pursuing a M.S. in Business Analytics and Proj
 
 ---
 
-### 🖥️ Technical Skills
+### 🧠 Technical Skills
 
 💻 Statistical Computing & Programming: R, Python (predictive modeling), C#\
 📈 Data Tools: Power BI, SQL, SAS (time series forecasting), Tableau (visual analytics)\
