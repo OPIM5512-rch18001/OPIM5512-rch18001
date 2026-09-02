@@ -9,7 +9,7 @@
 
 ### ‼️ About Me
 
-I am a grad student at the University of Connecticut pursuing a M.S. in Business Analytics and Project Management. I currently work full-time as a business analysis intern, supporting the Global IT PMO at Stanley Black & Decker. My educational background is in Management Information Systems, and my passion lies at the intersection of business and technology. I look forward to launching a career where I can apply my versatile skillset to deliver value in technical areas like data analytics and predictive modeling, as well as business areas like information systems and project management.
+Versatile technology professional pursuing a M.S. in Business Analytics and Project Management at the University of Connecticut, and gaining hands-on experience as a business analysis intern supporting the Global IT PMO at Stanley Black & Decker. My educational background has helped me develop a solid foundation in Management Information Systems with practical skills in data analytics, predictive modeling, and project delivery at enterprise scale. I look forward to building a career at the intersection of business and technology, translating complex technical insights into actionable business value. 
 
 ---
 
